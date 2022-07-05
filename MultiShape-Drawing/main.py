@@ -1,5 +1,3 @@
-import random
-from turtle import Turtle, Screen
 from dashlines import *
 from multisides import draw_shape
 from triangles import draw_triangles
