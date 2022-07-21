@@ -1,0 +1,3 @@
+Amazon | farid@gmail.com | 1234567Amazon | farid@gmail.com | 1234567Amazon | farid@gmail.com | 1234567amazon | farid@gmail.com | password
+google | farid@gmail.com | password
+facebook | farid@gmail.com | 
